@@ -1,5 +1,9 @@
-Hello My Name Is Shailesh Chaudhary.
+I am a web developer with a passion for creating dynamic and user-friendly websites. 
 
-I am Web Developer.
+Proficient in HTML, CSS, Bootstrap, and JavaScript. 
 
-Author : Shailesh Chaudhary
+Strong problem-solving skills for design. 
+
+Eager to contribute technical expertise to a collaborative team and drive innovative web solutions.
+
+Author : shailesh chaudhary 
